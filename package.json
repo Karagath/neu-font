@@ -1,5 +1,9 @@
 {
   "name": "font-package",
-  "version": "1.0.0",
-  "main": "poppins-thin-italic.ttf"
+  "version": "1.0.1",
+  "main": "poppins-thin-italic.ttf",
+  "typings": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ]
 }
